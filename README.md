@@ -7,3 +7,5 @@
 ![](http://pbolw7iuc.bkt.clouddn.com/15420168498715.jpg)
 就是照着这个的逻辑写了一份代码（没想到问题这么多。。我真的不是考session伪造！！）
 按这个做题就好了
+
+记得进mysql容器运行一下/bin/bash 1.sh
